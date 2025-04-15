@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Chhotu Kumar
 
 ### 💻 Web Developer | 🎓 B.Tech CSE (With Distinction)
 
