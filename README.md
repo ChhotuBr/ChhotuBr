@@ -1,31 +1,42 @@
-<h1 align="center">Hi there 👋, I'm Chhotu Kumar </h1>
-<h3 align="center">A passionate Web Developer & CSE Graduate (With Distinction)</h3>
+# 👋 Hey, I'm [Your Name]
+
+### 💻 Web Developer | 🎓 B.Tech CSE (With Distinction)
+
+---
+
+### 🚀 About Me
+
+- 👨‍💻 Passionate about crafting dynamic and responsive websites  
+- 📘 Always learning something new — currently diving into **Next.js**, **TypeScript**, and **Cloud**  
+- 🎯 Love clean code, good UI, and solving real-world problems through tech  
+- 🌱 Building projects and preparing for the future of full-stack development  
+
+---
+
+### 🛠 Tech Stack
+
+`HTML` • `CSS` • `JavaScript` • `React` • `Tailwind CSS`  
+`Node.js` • `Express.js` • `MongoDB` • `Git & GitHub` • `VS Code`
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Tech+Enthusiast;Lifelong+Learner;Open+Source+Lover;&center=true&width=500&height=45">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue" height="160" />
 </p>
 
 ---
 
-🌟 **About Me**
+### 🌐 Connect with Me
 
-- 🎓 B.Tech in Computer Science & Engineering (With Distinction)  
-- 💻 I love building responsive and dynamic web applications  
-- 🛠️ Currently learning **Next.js**, **TypeScript**, and **Cloud Services**  
-- 📚 I believe in continuous learning and sharing knowledge  
-- 🔍 Exploring open-source and collaborative projects  
-- 🎯 Goal: To create meaningful digital products and grow as a developer  
+- 💼 [Portfolio](#)  
+- 🔗 [LinkedIn](#)  
+- ✉️ your.email@example.com
 
 ---
 
-🛠 **Tech Stack**
-
-```json
-{
-  "Languages": ["HTML", "CSS", "JavaScript", "C++", "Python"],
-  "Frontend": ["React", "Tailwind CSS", "Bootstrap"],
-  "Backend": ["Node.js", "Express.js"],
-  "Database": ["MongoDB", "MySQL"],
-  "Tools": ["VS Code", "Git", "GitHub", "Postman", "Figma"]
-}
-
+<p align="center">
+  <em>"Building the web, one line of code at a time."</em>
+</p>
